@@ -1,0 +1,11 @@
+Ticker,Company,Sector,Country,Region,Weight,Total Return,Return Contribution
+NVDA,NVIDIA Corporation,Information Technology,United States,North America,0.1,27.05989861576275,2.7059898615762754
+AAPL,Apple Inc.,Information Technology,United States,North America,0.1,4.987742924933138,0.49877429249331384
+ASML,ASML Holding N.V.,Information Technology,Netherlands,Europe,0.1,4.210712869251291,0.4210712869251292
+MSFT,Microsoft Corporation,Information Technology,United States,North America,0.1,2.3303755716513406,0.23303755716513408
+XOM,Exxon Mobil Corporation,Energy,United States,North America,0.1,1.9148406217154386,0.19148406217154387
+RYA.IR,Ryanair Holdings plc,Industrials,Ireland,Europe,0.1,1.7878024210161358,0.17878024210161358
+JPM,JPMorgan Chase & Co.,Financials,United States,North America,0.1,1.7683383637235415,0.17683383637235417
+JNJ,Johnson & Johnson,Health Care,United States,North America,0.1,1.0803048011755525,0.10803048011755526
+SAP.DE,SAP SE,Information Technology,Germany,Europe,0.1,1.0774432869662607,0.10774432869662608
+NESN.SW,Nestlé S.A.,Consumer Staples,Switzerland,Europe,0.1,-0.006901264260254614,-0.0006901264260254614

@@ -1,0 +1,11 @@
+Ticker,Company,Sector,Country,Region,Weight
+AAPL,Apple Inc.,Information Technology,United States,North America,0.1
+MSFT,Microsoft Corporation,Information Technology,United States,North America,0.1
+NVDA,NVIDIA Corporation,Information Technology,United States,North America,0.1
+JPM,JPMorgan Chase & Co.,Financials,United States,North America,0.1
+JNJ,Johnson & Johnson,Health Care,United States,North America,0.1
+XOM,Exxon Mobil Corporation,Energy,United States,North America,0.1
+ASML,ASML Holding N.V.,Information Technology,Netherlands,Europe,0.1
+NESN.SW,Nestlé S.A.,Consumer Staples,Switzerland,Europe,0.1
+SAP.DE,SAP SE,Information Technology,Germany,Europe,0.1
+RYA.IR,Ryanair Holdings plc,Industrials,Ireland,Europe,0.1
